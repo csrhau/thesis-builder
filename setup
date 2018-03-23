@@ -1,0 +1,1 @@
+alias tmake="docker container run -v\$(pwd):/thesis thesis-builder"
